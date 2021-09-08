@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-**ShobhitDubey0729/ShobhitDubey0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 Shobhit is currently working on cutting edge research related to sequential Vision-to-language, speech-to-text and privacy preserving ML models. His thesis is based on deploying the Federated Learning framework on the cloud, edge devices and on Embedded systems in the field of speech-to-text.
 - 🌱 He is currently in my final year of Masters is Artificial Intelligence at Indian Institute of Science, Bengaluru.
